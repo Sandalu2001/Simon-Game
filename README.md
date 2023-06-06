@@ -2,6 +2,11 @@
 
 This repository contains the code for a Simon Game Web Application built using HTML, CSS, Bootstrap, and jQuery. The Simon Game is a classic memory game where players must repeat a sequence of colors and sounds in the correct order.
 
+
+## Screenshots
+
+<img width="1158" alt="simon" src="https://github.com/Sandalu2001/Simon-Game/assets/86417299/8cc37c71-4df7-472a-b1b5-00a0f7533a31">
+
 <h2>Features</h2>
 <ul>
   <li>Gameplay: Users can play the Simon Game by following the sequence of colors and sounds presented by the game.</li>
